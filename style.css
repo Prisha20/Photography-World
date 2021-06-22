@@ -1,0 +1,30 @@
+body 
+{
+    text-align: center;
+    background-color: fuchsia;
+}
+
+#cats
+{
+    width: 1000px;
+    height: 600px;
+}
+
+#friends
+{
+    width: 1000px;
+    height: 700px;
+}
+
+#nature
+{
+    width: 1000px;
+    height: 700px;
+}
+
+#fruits
+{
+    width: 1000px;
+    height: 700px;
+}
+
